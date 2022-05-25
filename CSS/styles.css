@@ -1,6 +1,12 @@
-img.main {
-  float:right;
-
+.headline {
+  font-style: italic;
+  border:3px salmon;
+  background-color: pink;
+  padding: 10px;
+  margin-top: 10pc;
+  margin-bottom: 10px;
+  width: 60%;
+  box-sizing: border-box;
 }
 
 h2  {
