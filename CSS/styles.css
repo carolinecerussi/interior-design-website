@@ -1,5 +1,6 @@
 body {
-  color: gold;
+  color: black;
+  background-color: lightpink;
 }
 
 .headline {
@@ -9,23 +10,23 @@ body {
   padding: 10px;
   margin-top: 10pc;
   margin-bottom: 10px;
-  width: 60%;
+  width: 40%;
   box-sizing: border-box;
 }
 
-h2  {
-  background-color: goldenrod;
-  font-family:Georgia, 
-}
-
 .sidebar {
-  width: 30%;
+  width: 40%;
   float: left;
   background-color: goldenrod;
   color:brown;
+  border:3px burlywood;
+  margin-top: 10px;
+  box-sizing: border-box;
+
 }
 
 .main {
+  width: 50%;
   float: right;
   background-color: lightblue;
   color: darkgreen;
