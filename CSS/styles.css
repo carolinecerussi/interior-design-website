@@ -1,14 +1,23 @@
- .sidebar{
-  width: 30;
-  float: right;
-  background-color: lightcyan;
-  color: darkolivegreen;
+img.main {
+  float:right;
+
+}
+
+h2  {
+  background-color: goldenrod;
+  font-family:Georgia, 
+}
+
+.sidebar {
+  float: left;
+  background-color:pink;
+  color:navy;
 }
 
 .main {
-  float: left;
+  float: right;
   background-color: lightblue;
   color: darkgreen;
-  font-family: Impact;
+  font-family:georgia;
 }
 
