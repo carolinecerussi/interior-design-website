@@ -6,32 +6,40 @@ body {
 .headline {
   text-align: center;
   font-style: italic;
+  background-image:linear-gradient(to bottom,lightpink,saddlebrown);
   border:3px saddlebrown;
   background-color:peru;
   padding: 10px;
-  margin-top: 10pc;
+  margin-top: 10px;
   margin-bottom: 10px;
-  width: 40%;
+  width: 45%;
   box-sizing: border-box;
   color: black;
 }
 
 .sidebar {
-  width: 40%;
+  width: 45%;
   float: left;
   background-color: goldenrod;
   color:brown;
   border:3px burlywood;
   margin-top: 10px;
   box-sizing: border-box;
+  padding:10px;
+
 
 }
 
 .main {
   width: 50%;
   float: right;
-  background-color: rgb(103, 149, 165);
+  background-image:linear-gradient(to bottom, lightpink, lime);
   color: darkgreen;
   font-family:georgia;
+  font-size: 18px;
+  font-style: italic;
+  
+  
 }
+
 
