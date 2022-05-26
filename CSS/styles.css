@@ -4,14 +4,16 @@ body {
 }
 
 .headline {
+  text-align: center;
   font-style: italic;
-  border:3px salmon;
-  background-color: pink;
+  border:3px saddlebrown;
+  background-color:peru;
   padding: 10px;
   margin-top: 10pc;
   margin-bottom: 10px;
   width: 40%;
   box-sizing: border-box;
+  color: black;
 }
 
 .sidebar {
@@ -28,7 +30,7 @@ body {
 .main {
   width: 50%;
   float: right;
-  background-color: lightblue;
+  background-color: rgb(103, 149, 165);
   color: darkgreen;
   font-family:georgia;
 }
